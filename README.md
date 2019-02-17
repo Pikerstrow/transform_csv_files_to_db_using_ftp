@@ -3,8 +3,8 @@ Single page service for transforming csv files from remote servers using FTP con
 
 Used technologies:
 
-PHP (OOP);
-JavaScript (jQuery);
-Ajax;
-HTML 5;
-CSS 3;
+-PHP (OOP);
+-JavaScript (jQuery);
+-Ajax;
+-HTML 5;
+-CSS 3;
