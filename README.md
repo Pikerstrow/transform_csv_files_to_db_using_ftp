@@ -2,9 +2,8 @@
 Single page service for transforming csv files from remote servers using FTP connection into an associate array with further saving data to local database and with further transfering data from local database to the remote...
 
 Used technologies:
-
-PHP (procedural way of coding);
-JavaScript (jQuery);
-Ajax;
-HTML 5;
-CSS 3;
+- PHP (OOP);
+- JavaScript (jQuery);
+- Ajax;
+- HTML 5;
+- CSS 3;
